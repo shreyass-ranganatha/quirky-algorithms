@@ -17,6 +17,6 @@ My take on some intricate, intriguing Algorithmic Problems!
 
 ---
 
-# References
+## References
 
 - [projecteuler.net](https://projecteuler.net/archives)
