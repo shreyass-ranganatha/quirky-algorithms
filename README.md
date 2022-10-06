@@ -1,5 +1,5 @@
 # Quirky Algorithms
-My take on some intricate, intriguing Algorithmic Problems!
+My take on some intricate, intriguing Algorithmic problems!
 
 ---
 
